@@ -1,6 +1,6 @@
 .menu {
   /* add correct code to place the menu correctly.*/
-
+display :flex;
   background-color: black;
   font-size: 30px;
   font-family: sans-serif;
